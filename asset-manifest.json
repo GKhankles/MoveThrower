@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GKhankles/MoveThrower/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/GKhankles/MoveThrower/static/js/main.4bc00a3e.chunk.js",
+    "main.js.map": "/GKhankles/MoveThrower/static/js/main.4bc00a3e.chunk.js.map",
+    "runtime-main.js": "/GKhankles/MoveThrower/static/js/runtime-main.ece516ee.js",
+    "runtime-main.js.map": "/GKhankles/MoveThrower/static/js/runtime-main.ece516ee.js.map",
+    "static/js/2.7ed11397.chunk.js": "/GKhankles/MoveThrower/static/js/2.7ed11397.chunk.js",
+    "static/js/2.7ed11397.chunk.js.map": "/GKhankles/MoveThrower/static/js/2.7ed11397.chunk.js.map",
+    "static/js/3.5169804a.chunk.js": "/GKhankles/MoveThrower/static/js/3.5169804a.chunk.js",
+    "static/js/3.5169804a.chunk.js.map": "/GKhankles/MoveThrower/static/js/3.5169804a.chunk.js.map",
+    "index.html": "/GKhankles/MoveThrower/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/GKhankles/MoveThrower/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7ed11397.chunk.js.LICENSE.txt": "/GKhankles/MoveThrower/static/js/2.7ed11397.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GKhankles/MoveThrower/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ece516ee.js",
+    "static/js/2.7ed11397.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4bc00a3e.chunk.js"
+  ]
+}
