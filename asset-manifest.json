@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github.io/MoveThrower/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/github.io/MoveThrower/static/js/main.4bc00a3e.chunk.js",
-    "main.js.map": "/github.io/MoveThrower/static/js/main.4bc00a3e.chunk.js.map",
-    "runtime-main.js": "/github.io/MoveThrower/static/js/runtime-main.b074adb5.js",
-    "runtime-main.js.map": "/github.io/MoveThrower/static/js/runtime-main.b074adb5.js.map",
-    "static/js/2.7ed11397.chunk.js": "/github.io/MoveThrower/static/js/2.7ed11397.chunk.js",
-    "static/js/2.7ed11397.chunk.js.map": "/github.io/MoveThrower/static/js/2.7ed11397.chunk.js.map",
-    "static/js/3.5169804a.chunk.js": "/github.io/MoveThrower/static/js/3.5169804a.chunk.js",
-    "static/js/3.5169804a.chunk.js.map": "/github.io/MoveThrower/static/js/3.5169804a.chunk.js.map",
-    "index.html": "/github.io/MoveThrower/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/github.io/MoveThrower/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.7ed11397.chunk.js.LICENSE.txt": "/github.io/MoveThrower/static/js/2.7ed11397.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/github.io/MoveThrower/static/media/logo.6ce24c58.svg"
+    "main.css": "/MoveThrower/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/MoveThrower/static/js/main.4bc00a3e.chunk.js",
+    "main.js.map": "/MoveThrower/static/js/main.4bc00a3e.chunk.js.map",
+    "runtime-main.js": "/MoveThrower/static/js/runtime-main.0d556726.js",
+    "runtime-main.js.map": "/MoveThrower/static/js/runtime-main.0d556726.js.map",
+    "static/js/2.7ed11397.chunk.js": "/MoveThrower/static/js/2.7ed11397.chunk.js",
+    "static/js/2.7ed11397.chunk.js.map": "/MoveThrower/static/js/2.7ed11397.chunk.js.map",
+    "static/js/3.5169804a.chunk.js": "/MoveThrower/static/js/3.5169804a.chunk.js",
+    "static/js/3.5169804a.chunk.js.map": "/MoveThrower/static/js/3.5169804a.chunk.js.map",
+    "index.html": "/MoveThrower/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/MoveThrower/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7ed11397.chunk.js.LICENSE.txt": "/MoveThrower/static/js/2.7ed11397.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MoveThrower/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b074adb5.js",
+    "static/js/runtime-main.0d556726.js",
     "static/js/2.7ed11397.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.4bc00a3e.chunk.js"
