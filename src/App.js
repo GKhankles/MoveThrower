@@ -17,7 +17,7 @@ class App extends React.Component {
 
   componentDidMount() {
     var self = this;
-    P.getPokemonByName(2) // with Promise
+    P.getPokemonByName(3) // with Promise
     .then(function(response) {
 
 
