@@ -7,4 +7,6 @@ git commit -m "$commitMessage"
 
 git push origin master
 
+npm run deploy
+
 read
